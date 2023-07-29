@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Invoice>
+	<ID>INV-2023-001</ID>
+	
+	<IssueDate>2023-07-06</IssueDate>
+	
+	<DueDate>2023-07-20</DueDate>
+	
+	<AccountingSupplyParty>
+		<Party>
+			<PartyName>
+				<Name>Supplier Company 1</Name>
+			</PartyName>
+			<PostalAddress>
+				<StreetName>Main Street</StreetName>
+				<City>Cityville</City>
+				<PostalZone>35535</PostalZone>
+				<Country>
+					<Name>Country</Name>
+				</Country>
+			</PostalAddress>
+			<Contact>
+				<Telephone>+1234567890</Telephone>
+				<Email>dogukantopcu35@gmail.com</Email>
+			</Contact>
+		</Party>
+	</AccountingSupplyParty>
+	
+	<AccountingCustomerParty>
+		<Party>
+			<PartyName>
+				<Name>Customer Company</Name>
+			</PartyName>
+			<PostalAddress>
+				<StreetName>First Avenue</StreetName>
+				<City>Townville</City>
+				<PostalZone>35535</PostalZone>
+				<Country>
+					<Name>Country</Name>
+				</Country>
+			</PostalAddress>
+			<Contact>
+				<Telephone>+9876543210</Telephone>
+				<Email>customer@example.com</Email>
+			</Contact>
+		</Party>
+	</AccountingCustomerParty>
+	
+	<PaymentTerms>Net 30 Days</PaymentTerms>
+	
+	<TaxTotal>
+		<TaxAmount>500.00</TaxAmount>
+	</TaxTotal>
+	
+	<LegalMonetaryTotal>
+		<LineExtensionAmount>2500.00</LineExtensionAmount>
+		<TaxExclusiveAmount>2000.00</TaxExclusiveAmount>
+		<TaxInclusiveAmount>2500.00</TaxInclusiveAmount>
+		<PayableAmount>3000.00</PayableAmount>
+	</LegalMonetaryTotal>
+	
+	<InvoiceLine>
+		<ID>1</ID>
+		<InvoicedQuantity>5</InvoicedQuantity>
+		<LineExtensionAmount>1000.00</LineExtensionAmount>
+		<Item>
+			<Description>Product A</Description>
+		</Item>
+		<Price>
+			<PriceAmount>200.00</PriceAmount>
+		</Price>
+		<TaxTotal>
+			<TaxAmount>200.00</TaxAmount>
+		</TaxTotal>
+	</InvoiceLine>
+	
+</Invoice>

@@ -1,0 +1,15 @@
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\bin\Debug\XMLtoUBL.exe.config
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\bin\Debug\XMLtoUBL.exe
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\bin\Debug\XMLtoUBL.pdb
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\bin\Debug\UblSharp.dll
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\bin\Debug\UblSharp.XmlSerializers.dll
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\bin\Debug\UblSharp.xml
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\obj\Debug\XMLtoUBL.csproj.AssemblyReference.cache
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\obj\Debug\XMLtoUBL.csproj.SuggestedBindingRedirects.cache
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\obj\Debug\XMLtoUBL.csproj.CoreCompileInputs.cache
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\obj\Debug\XMLtoUBL.csproj.CopyComplete
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\obj\Debug\XMLtoUBL.exe
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\obj\Debug\XMLtoUBL.pdb
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\bin\Debug\UblSharp.Generator.Core.dll
+C:\Users\doguk\OneDrive\Desktop\Jobs\SoftNet\XMLtoUBL\XMLtoUBL\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
